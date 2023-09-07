@@ -1,0 +1,5 @@
+importlib-metadata==4.8.1
+torch
+torchvision
+transformers
+packaging==21.0
